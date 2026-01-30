@@ -14,7 +14,7 @@
 
  
 
-     <h6>Study load:</h6>
+<h6>Study load:</h6>
  <h6>PATHFIT 2 - EXERCISE-BASED FITNESS ACTIVITIES - 1PM - 3
             PM</h6>
  <h6>S. CABALLERO</h6>
